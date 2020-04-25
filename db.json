@@ -3,7 +3,14 @@
     { "id": "John", "title": "100" },
     { "id": "Ana", "title": "99" },
     { "id": "Ryan", "title": "98" },
-    { "id": "Chris", "title": "88" }
+    { "id": "Chris", "title": "88" },
+    { "id": "Ice", "title": "22" },
+    { "id": "Nail", "title": "41" },
+    { "id": "Saba", "title": "64" },
+    { "id": "Vada", "title": "23" },
+    { "id": "Yana", "title": "72" },
+    { "id": "Gina", "title": "42" },
+    { "id": "Dave", "title": "32" }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
